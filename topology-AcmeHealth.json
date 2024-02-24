@@ -1,0 +1,16 @@
+[
+    {"host": "Acme-1fMDF-crA", "ip": "10.15.4.4", "role": "cr" },
+    {"host": "Acme-1fMDF-crB", "ip": "10.15.4.3", "role": "cr" },
+    {"host": "Acme-2fICU-dsA", "ip": "10.15.4.11", "role": "ds" },
+    {"host": "Acme-2fICU-dsB", "ip": "10.15.4.12", "role": "ds" },
+    {"host": "Acme-1fED-dsA", "ip": "10.15.4.13", "role": "ds" },
+    {"host": "Acme-1fED-dsB", "ip": "10.15.4.14", "role": "ds" },
+    {"host": "Acme-4fTELE-dsA", "ip": "10.15.4.15", "role": "ds" },
+    {"host": "Acme-4fTELE-dsB", "ip": "10.15.4.16", "role": "ds" },
+    {"host": "Acme-1fED-ac01", "ip": "10.15.4.21", "role": "ac" },
+    {"host": "Acme-1fED-ac02", "ip": "10.15.4.22", "role": "ac" },
+    {"host": "Acme-1fED-ac03", "ip": "10.15.4.23", "role": "ac" },
+    {"host": "Acme-2fICU-ac01", "ip": "10.15.4.24", "role": "ac" },
+    {"host": "Acme-2fICU-ac02", "ip": "10.15.4.25", "role": "ac" },
+    {"host": "Acme-4fTELE-ac01", "ip": "10.15.4.26", "role": "ac" }
+]
