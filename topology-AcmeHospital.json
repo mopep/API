@@ -14,7 +14,7 @@
     {"host": "Acme-2fICU-ac02", "ip": "10.15.4.25", "role": "ac", "type": "L2" },
     {"host": "Acme-4fTELE-ac01", "ip": "10.15.4.26", "role": "ac", "type": "L2" }
 ],
-"links": [
+"link": [
     {"source": "Acme-1fMDF-crA", "target": "Acme-1fMDF-crB", "type": "100"},
     {"source": "Acme-1fMDF-crA", "target": "Acme-2fICU-dsA", "type": "10"},
     {"source": "Acme-1fMDF-crA", "target": "Acme-1fED-dsA", "type": "1000"},
