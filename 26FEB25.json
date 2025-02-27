@@ -1,4 +1,4 @@
-{"project": [{"project": "Acme Health System", "ts": "01.23.2025 13:43:09", "user": "311213", "wkstn": "EDW238d", "pVer": "2"}],
+{"project": [{"project": "Acme Health System", "ts": "01.23.2025 13:43:09", "user": "311213", "wkstn": "EDW238d", "pVer": "2", "hostTotal": "14"}],
     "node": [
     {"host": "Acme-1fMDF-crA", "ip": "10.15.4.4", "role": "cr", "type": "L3", "vendor": "cisco", "model": "C9300-24S", "osVer": "15.2(7)E6", "uptime": "51 days| 4 hours| 27 minutes" },
     {"host": "Acme-1fMDF-crB", "ip": "10.15.4.3", "role": "cr", "type": "L3", "vendor": "cisco", "model": "C9300-24S", "osVer": "15.2(7)E6", "uptime": "51 days| 4 hours| 27 minutes"  },
