@@ -14,7 +14,7 @@
     {"host": "Acme-1fED-ac03", "ip": "10.15.4.23", "role": "ac", "type": "L2", "vendor": "cisco", "model": "c9300", "osVer": "16.3", "uptime": "51 days| 4 hours| 27 minutes"  },
     {"host": "Acme-2fICU-ac01", "ip": "10.15.4.24", "role": "ac", "type": "L2", "vendor": "cisco", "model": "C1000-24FP-4G-L", "osVer": "16.3", "uptime": "51 days| 4 hours| 27 minutes"  },
     {"host": "Acme-2fICU-ac02", "ip": "10.15.4.25", "role": "ac", "type": "L2", "vendor": "cisco", "model": "C1000-24FP-4G-L", "osVer": "16.3", "uptime": "51 days| 4 hours| 27 minutes"  },
-    {"host": "Acme-4fTELE-ac01", "ip": "10.15.4.26", "role": "ac", "type": "L2", "vendor": "cisco", "model": "C1000-24FP-4G-L", "osVer": "15.2(7)E6", "uptime": "51 days| 4 hours| 27 minutes"  }
+    {"host": "Acme-4fTELE-ac01", "ip": "10.15.4.26", "role": "ax", "type": "L2", "vendor": "cisco", "model": "C1000-24FP-4G-L", "osVer": "15.2(7)E6", "uptime": "51 days| 4 hours| 27 minutes"  }
 ],
 "link": [
     {"source": "Acme-1fMDF-fw01", "target": "Acme-1fMDF-crA", "phy": "copper", "speed": "1g"},
