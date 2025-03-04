@@ -17,6 +17,8 @@
     {"host": "Acme-4fTELE-ac01", "ip": "10.15.4.26", "role": "ac", "type": "L2", "vendor": "cisco", "model": "C1000-24FP-4G-L", "osVer": "15.2(7)E6", "uptime": "51 days| 4 hours| 27 minutes"  }
 ],
 "link": [
+    {"source": "Acme-1fMDF-fw01", "target": "Acme-1fMDF-crA", "phy": "copper", "speed": "1g"},
+    {"source": "Acme-1fMDF-fw01", "target": "Acme-1fMDF-crB", "phy": "copper", "speed": "1g"},
     {"source": "Acme-1fMDF-crA", "target": "Acme-1fMDF-crB", "phy": "fiber", "speed": "100m"},
     {"source": "Acme-1fMDF-crA", "target": "Acme-2fICU-dsA", "phy": "fiber", "speed": "10m"},
     {"source": "Acme-1fMDF-crA", "target": "Acme-1fED-dsA", "phy": "fiber", "speed": "1g"},
